@@ -42,19 +42,19 @@ ul {
 /* Estilos para a seção "Sobre Nós" */
 
 #sobre {
-    background-color: #ffe0b3;
+    background-color: #7af3ed;
 }
 
 /* Estilos para a seção "Nossos Produtos" */
 
 #produtos {
-    background-color: #ffd699;
+    background-color: #34cdd8;
 }
 
 /* Estilos para a seção "Entre em Contato Conosco" */
 
 #contato {
-    background-color: #ffcc66;
+    background-color: #2acdd3;
     text-align: center;
     padding: 30px;
 }
@@ -62,7 +62,7 @@ ul {
 /* Estilização do rodapé */
 
 footer {
-    background-color: #ff9966;
+    background-color: #2496e2;
     text-align: center;
     padding: 10px;
     color: #fff;
