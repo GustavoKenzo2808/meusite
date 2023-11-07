@@ -84,9 +84,9 @@ a:hover {
     color: #ff6633;
 }
 
-.imagem-destacada {
+img{
     width: 300px;
-    height: auto; 
+    height: 300px; 
     margin: 10px; 
 }
 
