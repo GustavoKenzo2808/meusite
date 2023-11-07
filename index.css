@@ -84,4 +84,9 @@ a:hover {
     color: #ff6633;
 }
 
-/* Outras estilizações de elementos (botões, caixas, etc.) 
+.imagem-destacada {
+    width: 300px;
+    height: auto; 
+    margin: 10px; 
+}
+
