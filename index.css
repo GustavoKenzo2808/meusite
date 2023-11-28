@@ -20,6 +20,10 @@ h1 {
     font-size: 70px;
 }
 
+p {
+    font-size: 30px;
+}
+
 nav {
     background-color: #136da8;
     text-align: center;
